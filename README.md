@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0:feac5e30&height=300&section=header&text=SungMin%20Yoon&fontSize=40&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=SungMin%20Yoon&fontSize=40&animation=scaleIn" />
 
 <br/>
 <br/>
