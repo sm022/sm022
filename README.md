@@ -16,7 +16,8 @@
 <a href=https://ko.wikipedia.org/wiki/MySQL " target="_blank"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&Studio&logoColor=white"/></a>
 <a href=https://ko.wikipedia.org/wiki/%EB%A3%A8%EC%95%84_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4) target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/></a>
 <!--img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/--></a>
-                                                                                                              
+
+<br/>                                                                                                              
 <br/>
 <br/>
 
